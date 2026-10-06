@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Nur Amira Izreena
 
-<!--
-**AmiraIzreena/AmiraIzreena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Final Year Computer in Bachelor of Computer Science (Hons.) at UiTM Shah Alam interested in software engineering and AI.
 
-Here are some ideas to get you started:
+## About me
+- Studying: Computer Science, UiTM
+- Currently learning: Machine Learning
+- My FYP area: Speech Emotion Recognition 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+Java, C++,Python, Js, Css
+
+## Projects
+- [Project name](link-to-your-repository): one sentence about it
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/amiraizreenaazlan
+- Email: amiraizreenaa@gmail.com 
